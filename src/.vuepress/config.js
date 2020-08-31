@@ -4,7 +4,7 @@ module.exports = {
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
-  title: 'Syb\'s Cookbooks',
+  title: '👨🏻‍🍳 Syb\'s Cookbooks',
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */
@@ -34,8 +34,8 @@ module.exports = {
     lastUpdated: false,
     nav: [
       {
-        text: 'Guide',
-        link: '/guide/',
+        text: 'VuePress',
+        link: '/vuepress/',
       },
       {
         text: 'Config',
@@ -46,18 +46,7 @@ module.exports = {
         link: 'https://v1.vuepress.vuejs.org'
       }
     ],
-    sidebar: {
-      '/guide/': [
-        {
-          title: 'Guide',
-          collapsable: false,
-          children: [
-            '',
-            'using-vue',
-          ]
-        }
-      ],
-    }
+    sidebar: {}
   },
 
   /**
