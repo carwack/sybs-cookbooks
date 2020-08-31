@@ -1,0 +1,19 @@
+{
+  "name": "sybs-cookbooks",
+  "version": "0.0.1",
+  "description": "cookbooks of stuff I do",
+  "main": "index.js",
+  "authors": {
+    "name": "Sybren",
+    "email": ""
+  },
+  "repository": "/sybs-cookbooks",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
