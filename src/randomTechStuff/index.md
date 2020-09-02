@@ -2,7 +2,7 @@
 sidebar: auto
 ---
 
-# 🎉 Introduction
+# 🤖 Random Tech Stuff
 I do love to memorize random tech stuff I've found and look cool. 
 Please look at this orderd chaos...
 
