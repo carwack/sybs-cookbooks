@@ -5,8 +5,10 @@ tagline: cookbooks of stuff I do
 actionText: Quick Start →
 actionLink: /guide/
 features:
-- title: Feature 1 Title
-  details: Feature 1 Description
+- title: Random Tech Stuff
+  details: Yes what the title says.
+  actionText: blub →
+  actionLink: ./randomtechstuff
 - title: Feature 2 Title
   details: Feature 2 Description
 - title: Feature 3 Title
